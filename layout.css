@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 570px;
+    width: 1270px;
+}
+.top
+{
+ flex:0.12;
+    
+    display: flex;
+}
+.logo
+{
+  flex:0.2;
+}
+.menu-bar
+{
+ flex:0.8;
+ display: flex;
+}
+.menu1
+{
+  flex:0.2;
+  text-align: center;
+  margin-top: 20px;
+}
+.menu2
+{
+  flex:0.2;
+  text-align: center;
+  margin-top: 20px;
+}
+.menu3
+{
+ flex:0.2;
+ text-align: center;
+ margin-top: 20px;
+}
+.menu4
+{
+ flex:0.2;
+ text-align: center;
+ margin-top: 20px;
+}
+
+.logo-image
+{
+  
+}

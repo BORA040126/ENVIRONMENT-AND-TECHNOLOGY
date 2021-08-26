@@ -1,0 +1,16 @@
+.middle
+{
+  flex:0.7;
+  background-color: aquamarine;
+  margin-left: 120px;
+  margin-right: 120px;
+  overflow: auto;
+}
+.bottom
+{
+  flex:0.4;
+  background-color: blue;
+  margin-left:120px;
+  margin-right:120px;
+  overflow: auto;
+}
