@@ -1,8 +1,9 @@
 body{
     display: flex;
     flex-direction: column;
-    height: 570px;
-    width: 1270px;
+    height: 400px;
+    width: 1080px;
+    
 }
 .top
 {
@@ -47,4 +48,24 @@ body{
 .logo-image
 {
   
+}
+.menu1
+{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+.menu2
+{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+.menu3
+{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+.menu4
+{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
 }
