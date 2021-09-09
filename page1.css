@@ -1,0 +1,22 @@
+.contents
+{
+  margin-left: 20px;
+  background-color: blue;
+  flex:1.5;
+}
+.middle
+{
+  display: flex;
+  height: 1000px;
+  margin-top: 20px;
+}
+.menu-barr
+{
+  flex:0.3;
+  background-color: red;
+  margin-left: 50px;
+}
+.top
+{
+  margin-left: 40px;
+}

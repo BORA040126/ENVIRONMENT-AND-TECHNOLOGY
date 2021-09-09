@@ -1,11 +1,15 @@
 body{
     display: flex;
     flex-direction: column;
-    height: 400px;
+    height: 1000px;
     width: 1080px;
+<<<<<<< Updated upstream
     background-color:rgba(0, 255, 45, 0.15);
     
     
+=======
+
+>>>>>>> Stashed changes
 }
 body{
     
@@ -16,7 +20,7 @@ body{
 .top
 {
  flex:0.12;
-    
+
     display: flex;
 }
 .logo
@@ -55,7 +59,7 @@ body{
 
 .logo-image
 {
-  
+
 }
 .menu1
 {
