@@ -1,7 +1,7 @@
 .contents
 {
   margin-left: 20px;
-  background-color: blue;
+
   flex:1.5;
 }
 .middle
@@ -13,7 +13,6 @@
 .menu-barr
 {
   flex:0.3;
-  background-color: red;
   margin-left: 50px;
 }
 .top
